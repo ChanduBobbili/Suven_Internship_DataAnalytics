@@ -1,6 +1,6 @@
 
 
-# Suven Consultants and Technology [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="20">](https://suvenconsultants.com/)
+# Suven Consultants and Technology
 ----
 ## ABOUT
 - This repository contains Online Coding Internship related to Data Analytics using Python Domain.
