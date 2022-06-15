@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/87115309/130560121-0f69f69a-caf2-4723-836b-3645641daa66.png" align="right" width="150" height="160">
+
 
 # Suven Consultants and Technology [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="20">](https://suvenconsultants.com/)
 ----
@@ -36,13 +36,6 @@ The Ho means we need to find whether the average Apparent temperature for the mo
 <br />
 <br />
 
-*(Please click on the logos to overview my project)*
-
-[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/Suven-Consultants-and-Technology-Tasks/blob/master/Performing%20Analysis%20of%20Meteorological%20Data/main.ipynb)
-[<img src="https://user-images.githubusercontent.com/87115309/130572772-7366344b-3889-401a-8df3-5f66dadeed57.png" align="center" width="120">](https://medium.com/@PunamSeal/performing-analysis-of-meteorological-data-a4b36b4694a0)
-
-<br />
-<br />
 
 ## Project 2: **RECOGNIZING HANDWRITTEN DIGITS USING SCIKIT-LEARN**
 <br />
@@ -67,8 +60,3 @@ The Ho means we need to find whether the average Apparent temperature for the mo
 **IDE-** Jupyter Notebook
 <br />
 <br />
-
-*(Please click on the logos to overview my project)*
-
-[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/Suven-Consultants-and-Technology-Tasks/blob/master/Recognizing%20Handwritten%20Digits%20with%20scikit-learn/main.ipynb)
-[<img src="https://user-images.githubusercontent.com/87115309/130572772-7366344b-3889-401a-8df3-5f66dadeed57.png" align="center" width="120">](https://punamseal.medium.com/recognizing-handwritten-digits-with-scikit-learn-8d57bd3715e6)
